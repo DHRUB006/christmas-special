@@ -1,5 +1,3 @@
----
-
 # DXD - Christmas Special! with canon!
 
 ![Game Preview](https://iili.io/JRdtcCX.jpg)
