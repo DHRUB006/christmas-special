@@ -25,7 +25,7 @@
 
 ## Demo
 
-[View Live Demo](https://dhrub006.github.io/DurgaPujoCountdownClock/)
+[View Live Demo](https://dhrub006.github.io/christmas-special/)
 
 By clicking on the link above, you can experience the DXD App Menu with Lock Screen in action.
 
@@ -82,7 +82,7 @@ Engage in a fun-filled Christmas experience by decorating the room with gifts an
 For any queries, reach out to the developer:
 - Developer: Dhrubajyoti Sarkar 
 - Email: dhrubajyotis2022@gmail.com 
-- Instagram: 
+- Instagram: [dhrubajyoti.official](https://www.instagram.com/dhrubajyoti.official/)
 
 ## License
 
