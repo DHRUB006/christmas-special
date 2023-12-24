@@ -89,5 +89,3 @@ This project is licensed under the MIT LICENSEE. Check the LICENSE file for deta
 ## Additional Notes
 
 Include any extra information, tips, or known issues users might encounter.
-
----
