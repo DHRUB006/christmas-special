@@ -86,7 +86,7 @@ For any queries, reach out to the developer:
 
 ## License
 
-This project is licensed under the [License Name]. Check the LICENSE file for details.
+This project is licensed under the MIT LICENSEE. Check the LICENSE file for details.
 
 ## Additional Notes
 
